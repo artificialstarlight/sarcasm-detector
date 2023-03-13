@@ -8,6 +8,14 @@ Do note that it is not always 100% correct. Some cases of human sarcasm depend o
 # Examples
 See ```example-screenshot.PNG``` for a screenshot with example input and outputs.
 
+
+# How can I run this script?
+
+- Have NumPy, Pandas, and [scikit-learn](https://scikit-learn.org/stable/install.html) installed, as well as Python 3.10 or above.
+- Save the dataset .csv file, which you can get on Kaggle (linked below).
+- Make sure the correct path to the .csv is specified in the sarcasm.py script.
+- Run the script.
+
 # Credits
 Dataset found [here](https://www.kaggle.com/datasets/danofer/sarcasm)
 
